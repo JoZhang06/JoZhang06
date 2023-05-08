@@ -1,3 +1,3 @@
-![madarame-genshiken](https://user-images.githubusercontent.com/123129983/236909751-c62fbdba-1a2c-46a9-ae23-f9a84b91bd32.gif)
+![computer-nerd](https://user-images.githubusercontent.com/123129983/236910845-b5d62e16-90b7-40ed-b658-a96b3f18ca5a.gif)
 
 Hi, I'm Joe Chang, I could say I'm a game developer, desktop application, mobile application, web developer, programmer, designer and digital artist, here's some of the code I've done on some projects...
